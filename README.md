@@ -17,7 +17,7 @@ This project is part of the Digital Literacy course. It aims to develop essentia
 ## 📂 Project Structure
 
 - task-1-presentation → Digital Literacy Infographic
-- task-2-portfolio → GitHub, LinkedIn, HackerRank profiles
+- task-2-portfolio → GitHub, LinkedIn, Kaggle profiles
 - task-3-platforms → Coding task and Google Form
 - task-4-email-etiquette → Professional emails and checklist
 - task-5-cybercrime → Case study and prevention checklist
@@ -31,7 +31,7 @@ This project is part of the Digital Literacy course. It aims to develop essentia
 Created a digital literacy infographic using Canva covering key topics like safe internet practices and digital tools.
 
 ### Task 2: Digital Portfolio
-Set up profiles on GitHub, LinkedIn, and HackerRank to build a professional online presence.
+Set up profiles on GitHub, LinkedIn, and Kaggle to build a professional online presence.
 
 ### Task 3: Platforms
 Completed a coding problem on HackerRank and created a Google Form quiz.
@@ -50,6 +50,7 @@ Prepared a phishing case study and a prevention checklist for online safety.
 - Canva
 - GitHub
 - LinkedIn
+- Kaggle
 - HackerRank
 - Google Forms
 
